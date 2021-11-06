@@ -1,0 +1,167 @@
+
+
+[
+   {
+      "id": 0,
+      "word": "",
+      "start": 0,
+      "length": 1068
+   },
+   {
+      "id": 1,
+      "word": "a",
+      "start": 0,
+      "length": 103
+   },
+   {
+      "id": 2,
+      "word": "b",
+      "start": 103,
+      "length": 53
+   },
+   {
+      "id": 3,
+      "word": "c",
+      "start": 156,
+      "length": 101
+   },
+   {
+      "id": 4,
+      "word": "d",
+      "start": 257,
+      "length": 87
+   },
+   {
+      "id": 5,
+      "word": "e",
+      "start": 344,
+      "length": 84
+   },
+   {
+      "id": 6,
+      "word": "f",
+      "start": 428,
+      "length": 37
+   },
+   {
+      "id": 7,
+      "word": "g",
+      "start": 465,
+      "length": 25
+   },
+   {
+      "id": 8,
+      "word": "h",
+      "start": 490,
+      "length": 25
+   },
+   {
+      "id": 9,
+      "word": "i",
+      "start": 515,
+      "length": 95
+   },
+   {
+      "id": 10,
+      "word": "j",
+      "start": 610,
+      "length": 12
+   },
+   {
+      "id": 11,
+      "word": "k",
+      "start": 622,
+      "length": 1
+   },
+   {
+      "id": 12,
+      "word": "l",
+      "start": 623,
+      "length": 19
+   },
+   {
+      "id": 13,
+      "word": "m",
+      "start": 642,
+      "length": 56
+   },
+   {
+      "id": 14,
+      "word": "n",
+      "start": 698,
+      "length": 7
+   },
+   {
+      "id": 15,
+      "word": "o",
+      "start": 705,
+      "length": 19
+   },
+   {
+      "id": 16,
+      "word": "p",
+      "start": 724,
+      "length": 112
+   },
+   {
+      "id": 17,
+      "word": "q",
+      "start": 837,
+      "length": 10
+   },
+   {
+      "id": 18,
+      "word": "r",
+      "start": 847,
+      "length": 46
+   },
+   {
+      "id": 19,
+      "word": "s",
+      "start": 893,
+      "length": 73
+   },
+   {
+      "id": 20,
+      "word": "t",
+      "start": 966,
+      "length": 41
+   },
+   {
+      "id": 21,
+      "word": "u",
+      "start": 1007,
+      "length": 26
+   },
+   {
+      "id": 22,
+      "word": "v",
+      "start": 1033,
+      "length": 26
+   },
+   {
+      "id": 23,
+      "word": "w",
+      "start": 1059,
+      "length": 5
+   },
+   {
+      "id": 24,
+      "word": "x",
+      "start": 1064,
+      "length": 1
+   },
+   {
+      "id": 25,
+      "word": "y",
+      "start": 1065,
+      "length": 1
+   },
+   {
+      "id": 26,
+      "word": "z",
+      "start": 1066,
+      "length": 2
+   }
+]
+

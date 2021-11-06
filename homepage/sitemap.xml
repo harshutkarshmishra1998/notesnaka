@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://notesnaka.com/homepage/</loc>
+  <lastmod>2021-02-10T08:23:49+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://notesnaka.com/homepage/index.html</loc>
+  <lastmod>2021-02-10T08:23:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notesnaka.com/login/login_user.php</loc>
+  <lastmod>2021-02-10T08:23:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notesnaka.com/new_user/</loc>
+  <lastmod>2021-02-10T08:23:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notesnaka.com/new_user/index.php</loc>
+  <lastmod>2021-02-10T08:23:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notesnaka.com/blogs/index.php?blog_year=ALL</loc>
+  <lastmod>2021-02-10T08:23:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notesnaka.com/contributes/</loc>
+  <lastmod>2021-02-10T08:23:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notesnaka.com/contributes/index.php</loc>
+  <lastmod>2021-02-10T08:23:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notesnaka.com/homepage/about.php</loc>
+  <lastmod>2021-02-23T19:45:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notesnaka.com/homepage/privacy-policy.php</loc> 
+  <lastmod>2021-02-23T19:45:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notesnaka.com/homepage/terms-conditions.php</loc>
+  <lastmod>2021-02-23T19:45:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notesnaka.com/homepage/copyright.php</loc>
+  <lastmod>2021-02-23T19:45:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notesnaka.com/homepage/returns.php</loc>
+  <lastmod>2021-02-23T19:45:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
